@@ -1,6 +1,6 @@
-## 🚀 Setup & Installation
+## Setup & Installation
 
-### Option A: Google Colab (Recommended)
+Google Colab 
 
 1. **Open the notebook directly:**
    - Upload `Ecommerce_Customer_Classification.ipynb` to [Google Colab](https://colab.research.google.com)
